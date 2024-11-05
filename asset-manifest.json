@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sophie-apprecia/static/css/main.ca0109b7.css",
+    "main.js": "/sophie-apprecia/static/js/main.f4a17b82.js",
+    "index.html": "/sophie-apprecia/index.html",
+    "main.ca0109b7.css.map": "/sophie-apprecia/static/css/main.ca0109b7.css.map",
+    "main.f4a17b82.js.map": "/sophie-apprecia/static/js/main.f4a17b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0109b7.css",
+    "static/js/main.f4a17b82.js"
+  ]
+}
